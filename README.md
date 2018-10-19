@@ -1,20 +1,21 @@
 # LMU "Deep Learning and Artificial Intelligence" Tutorial Materials
 LMU Winter Semester 2018/19 Deep Learning and Artificial Intelligence Tutorial Materials 
 
->University of Munich, Winter Semester 2018/19, [Course Homepage](http://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/deep1819/index.html)
+> University of Munich, Winter Semester 2018/19, [Course Homepage](http://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/deep1819/index.html)
 >
->- **Lecturer**: [Prof. Dr. Matthias Schubert](http://www.dbs.ifi.lmu.de/cms/personen/professoren/schubert/index.html)
->- **Assistant**: [Sebastian Schmoll](http://www.dbs.ifi.lmu.de/cms/personen/mitarbeiter/schmoll/index.html)
->- **Tutor**: [Changkun Ou](https://changkun.de)
+> - **Lecturer**: [Prof. Dr. Matthias Schubert](http://www.dbs.ifi.lmu.de/cms/personen/professoren/schubert/index.html)
+> - **Assistant**: [Sebastian Schmoll](http://www.dbs.ifi.lmu.de/cms/personen/mitarbeiter/schmoll/index.html)
+> - **Tutor**: [Changkun Ou](https://changkun.de)
 >
->Time: Monday, 2pm-4pm or 4pm-6pm.
+> Time: Monday, 2pm-4pm or 4pm-6pm.
 
 ## Tutorial sessions
 
 - 2018.10.15 **Week 1:** Unplanned
 - 2018.10.22 **Week 2**: Python Introduction
-  - [Python in 90min](week2/py_intro.ipynb)
-- 2018.10.29 **Week 3**: Basic Neural Networks
+  - [Jupyter Notebook](week2/py_intro_self.ipynb)
+- 2018.10.29 **Week 3**: Differential, Jacobian, Linear Regression, MSE
+  - [Jupyter Notebook](week3/regression.ipynb)
 - 2018.11.05 **Week 4**: Training Neural Networks
 - 2018.11.12 **Week 5**: Convolutional Neural Networks
 - 2018.11.19 **Week 6**: Recurrent Neural Networks
@@ -27,6 +28,10 @@ LMU Winter Semester 2018/19 Deep Learning and Artificial Intelligence Tutorial M
 - 2019.01.21 **Week 13**: Value function Approximation
 - 2019.01.28 **Week 14**: Policy Gradients and Actor Critic Learning
 - 2019.02.04 **Week 15**: Knowledge Graphs in AI
+
+## References
+
+- [LMU "Machine Learning" Tutorial Materials](https://github.com/changkun/ss18-machine-learning-tutorial)
 
 ## License
 
