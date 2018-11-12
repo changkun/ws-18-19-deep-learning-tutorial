@@ -11,23 +11,24 @@ LMU Winter Semester 2018/19 Deep Learning and Artificial Intelligence Tutorial M
 
 ## Tutorial sessions
 
-- 2018.10.15 **Week 1:** Unplanned
-- 2018.10.22 **Week 2**: Python Introduction
-  - [Jupyter Notebook](week2/py_intro_self.ipynb)
-- 2018.10.29 **Week 3**: Differential, Jacobian, Linear Regression, MSE
-  - [Jupyter Notebook](week3/regression.ipynb)
-- 2018.11.05 **Week 4**: Training Neural Networks
-- 2018.11.12 **Week 5**: Convolutional Neural Networks
-- 2018.11.19 **Week 6**: Recurrent Neural Networks
-- 2018.11.26 **Week 7**: Deep Learning Tools
-- 2018.12.03 **Week 8**: Representation and Distributional Learning
-- 2018.12.10 **Week 9**: Deep Learning and Uncertainty
-- 2018.12.17 **Week 10**: Generative Models
-- 2019.01.07 **Week 11**: Sequential Decision Problems and autonomous agents
-- 2019.01.14 **Week 12**: Modelfree Reinforcement Learning
-- 2019.01.21 **Week 13**: Value function Approximation
-- 2019.01.28 **Week 14**: Policy Gradients and Actor Critic Learning
-- 2019.02.04 **Week 15**: Knowledge Graphs in AI
+- 2018.10.22 **Week 1**: Python Introduction
+  - [Jupyter Notebook](week1/py_intro_self.ipynb)
+- 2018.10.29 **Week 2**: Derivative, Jacobian Matrix, MSE
+  - [Manuscript](week2/manuscript.pdf)
+- 2018.11.05 **Week 3**: Computational Graph, Computational Gradient Graph, Gradient Vanishing & Exploding
+  - [Manuscript](week3/manuscript.pdf)
+  - [Jupyter Notebook](week3/computational_graph.ipynb)
+- 2018.11.12 **Week 4**: Convolution, Cross-correlation, ConvLayer and ConvNet
+- 2018.11.19 **Week 5**: Recurrent Neural Networks
+- 2018.11.26 **Week 6**: Statistic Uncertainty
+- 2018.12.03 **Week 7**: Representation and Distributional Learning
+- 2018.12.10 **Week 8**: Deep Learning and Uncertainty
+- 2018.12.17 **Week 9**: Generative Models
+- 2019.01.07 **Week 10**: Sequential Decision Problems and autonomous agents
+- 2019.01.14 **Week 11**: Modelfree Reinforcement Learning
+- 2019.01.21 **Week 12**: Value function Approximation
+- 2019.01.28 **Week 13**: Policy Gradients and Actor Critic Learning
+- 2019.02.04 **Week 14**: Knowledge Graphs in AI
 
 ## References
 
