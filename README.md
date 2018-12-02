@@ -1,5 +1,6 @@
 # LMU "Deep Learning and Artificial Intelligence" Tutorial Materials
-LMU Winter Semester 2018/19 Deep Learning and Artificial Intelligence Tutorial Materials 
+
+LMU Winter Semester 2018/19 Deep Learning and Artificial Intelligence Tutorial Materials
 
 > University of Munich, Winter Semester 2018/19, [Course Homepage](http://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/deep1819/index.html)
 >
@@ -24,8 +25,11 @@ LMU Winter Semester 2018/19 Deep Learning and Artificial Intelligence Tutorial M
   - [Jupyter Notebook: Tensorflow Introduction, CNN, Inception](week4/tf_cnn_inception.ipynb)
 - 2018.11.19 **Week 5**: Backpropagation through Time (BPTT), Gradient Vanishing/Exploading in RNN, LSTMs, CIFAR10
   - [Exercise solution: Manuscript](week5/manuscript.pdf)
-- 2018.11.26 **Week 6**: Statistic Uncertainty
-- 2018.12.03 **Week 7**: Representation and Distributional Learning
+- 2018.11.26 **Week 6**: Statistic Uncertainty, Evidence Lower Bound, Metropolis-Hastings Algorithm, LSTM
+  - [Exercise solution: Manuscript](week6/manuscript.pdf)
+  - [Jupyter Notebook: Metropolis-Hastings Algorithm](mha.ipynb)
+  - [Jupyter Notebook: LSTM tensorflow implementation](lstm.ipynb)
+- 2018.12.03 **Week 7**: Local and distributed representation, Autoencoders, Restricted Boltzmann Machines
 - 2018.12.10 **Week 8**: Deep Learning and Uncertainty
 - 2018.12.17 **Week 9**: Generative Models
 - 2019.01.07 **Week 10**: Sequential Decision Problems and autonomous agents
