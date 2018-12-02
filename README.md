@@ -1,11 +1,12 @@
-# LMU "Deep Learning and Artificial Intelligence" Tutorial Materials
+# "Deep Learning and Artificial Intelligence" Tutorial
 
-LMU Winter Semester 2018/19 Deep Learning and Artificial Intelligence Tutorial Materials
+Deep Learning and Artificial Intelligence Tutorial @ LMU WS 2018/19 
 
 > University of Munich, Winter Semester 2018/19, [Course Homepage](http://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/deep1819/index.html)
 >
-> - **Lecturer**: [Prof. Dr. Matthias Schubert](http://www.dbs.ifi.lmu.de/cms/personen/professoren/schubert/index.html)
-> - **Assistant**: [Sebastian Schmoll](http://www.dbs.ifi.lmu.de/cms/personen/mitarbeiter/schmoll/index.html), [Sabrina Friedl](http://www.dbs.ifi.lmu.de/cms/personen/mitarbeiter/friedl/index.html)
+> - **Responsible Professor**: [Prof. Dr. Matthias Schubert](http://www.dbs.ifi.lmu.de/cms/personen/professoren/schubert/index.html)
+> - **Lecturers**: Dr. Florian Büttner, Dr. Markus Geipel, Pankaj Gupta, Dr. Denis Krompass, [Prof. Dr. Matthias Schubert](http://www.dbs.ifi.lmu.de/cms/personen/professoren/schubert/index.html), Dr. Sigurd Spieckermann, [Prof. Dr. Volker Tresp](http://www.dbs.ifi.lmu.de/cms/personen/professoren/tresp/index.html)
+> - **Assistants**: Sebastian Schmoll, Sabrina Friedl
 > - **Tutor**: [Changkun Ou](https://changkun.de)
 >
 > Time: Monday, 2pm-4pm or 4pm-6pm.
