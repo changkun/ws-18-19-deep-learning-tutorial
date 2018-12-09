@@ -28,10 +28,15 @@ Deep Learning and Artificial Intelligence Tutorial @ LMU WS 2018/19
   - [Exercise solution: Manuscript](week5/manuscript.pdf)
 - 2018.11.26 **Week 6**: Statistic Uncertainty, Evidence Lower Bound, Metropolis-Hastings Algorithm, LSTM
   - [Exercise solution: Manuscript](week6/manuscript.pdf)
-  - [Jupyter Notebook: Metropolis-Hastings Algorithm](mha.ipynb)
-  - [Jupyter Notebook: LSTM tensorflow implementation](lstm.ipynb)
+  - [Jupyter Notebook: Metropolis-Hastings Algorithm](week6/mha.ipynb)
+  - [Jupyter Notebook: LSTM tensorflow implementation](week6/lstm.ipynb)
 - 2018.12.03 **Week 7**: Local and distributed representation, Autoencoders, Restricted Boltzmann Machines
-- 2018.12.10 **Week 8**: Deep Learning and Uncertainty
+  - [Exercise solution: Manuscript](week7/manuscript.pdf)
+  - [Jupyter Notebook: Autoencoder](autoencoder.ipynb)
+  - [Jupyter Notebook: RBM](rbm.ipynb)
+- 2018.12.10 **Week 8**: Tooling, PyTorch Introduction
+  - [Exercise solution: text](week8/solution.md)
+  - [Jupyter Notebook: PyTorch Introduction](week8/torch.ipynb)
 - 2018.12.17 **Week 9**: Generative Models
 - 2019.01.07 **Week 10**: Sequential Decision Problems and autonomous agents
 - 2019.01.14 **Week 11**: Modelfree Reinforcement Learning
