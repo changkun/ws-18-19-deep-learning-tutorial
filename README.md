@@ -38,9 +38,15 @@ Deep Learning and Artificial Intelligence Tutorial @ LMU WS 2018/19
   - [Exercise solution: text](week8/solution.md)
   - [Jupyter Notebook: PyTorch Introduction](week8/torch.ipynb)
 - 2018.12.17 **Week 9**: Generative Models
-- 2019.01.07 **Week 10**: Sequential Decision Problems and autonomous agents
-- 2019.01.14 **Week 11**: Modelfree Reinforcement Learning
-- 2019.01.21 **Week 12**: Value function Approximation
+  - [Exercise solution: Manuscript]
+  - [Jupyter Notebook: Variational Auto-Encoder](week9/vae.ipynb)
+- 2019.01.07 **Week 10**: Markov Reward Process, Markov Decision Process and Policy Iteration
+  - [Exercise solution: Manuscript](week10/manuscript.pdf)
+  - [Jupyter Notebook: Markov Decision Process](week10/mdp.ipynb)
+- 2019.01.14 **Week 11**: Model-free Reinforcement Learning, Temporal Difference Learning, Q-Learning and SARSA
+  - [Exercise solution: Manuscript]
+  - [Jupyter Notebook: Q-Learning and SARSA]
+- 2019.01.21 **Week 12**: Value Function Approximation
 - 2019.01.28 **Week 13**: Policy Gradients and Actor Critic Learning
 - 2019.02.04 **Week 14**: Knowledge Graphs in AI
 
