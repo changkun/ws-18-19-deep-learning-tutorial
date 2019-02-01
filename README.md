@@ -37,18 +37,24 @@ Deep Learning and Artificial Intelligence Tutorial @ LMU WS 2018/19
 - 2018.12.10 **Week 8**: Tooling, PyTorch Introduction
   - [Exercise solution: text](week8/solution.md)
   - [Jupyter Notebook: PyTorch Introduction](week8/torch.ipynb)
-- 2018.12.17 **Week 9**: Generative Models
-  - [Exercise solution: Manuscript]
+- 2018.12.17 **Week 9**: Variational Autoencoder, GANs
+  - [Exercise solution: Manuscript](week9/manuscript.pdf)
   - [Jupyter Notebook: Variational Auto-Encoder](week9/vae.ipynb)
 - 2019.01.07 **Week 10**: Markov Reward Process, Markov Decision Process and Policy Iteration
   - [Exercise solution: Manuscript](week10/manuscript.pdf)
   - [Jupyter Notebook: Markov Decision Process](week10/mdp.ipynb)
 - 2019.01.14 **Week 11**: Model-free Reinforcement Learning, Temporal Difference Learning, Q-Learning and SARSA
-  - [Exercise solution: Manuscript]
-  - [Jupyter Notebook: Q-Learning and SARSA]
-- 2019.01.21 **Week 12**: Value Function Approximation
+  - [Exercise solution: Manuscript](week11/manuscript.pdf)
+  - [Jupyter Notebook: Model-free RL: Q-Learning and SARSA](week12/rl.ipynb)
+- 2019.01.21 **Week 12**: Value Function Approximation, Baird’s Counterexample and Montain Car benchmark
+  - [Exercise solution: Manuscript](week12/manuscript.pdf)
+  - [Exercise solution: Baird's counterexample](week12/ex12-2.ipynb)
+  - [Exercise solution: Q-learning in Montain Car](week12/qlearn.ipynb)
 - 2019.01.28 **Week 13**: Policy Gradients and Actor Critic Learning
+  - [Exercise solution: Manuscript](week13/manuscript.pdf)
+  - [Exercise solution: Policy gradient with baseline](week13/ex13-3.ipynb)
 - 2019.02.04 **Week 14**: Knowledge Graphs in AI
+  - No tutorial
 
 ## References
 
